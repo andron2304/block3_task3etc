@@ -1,1 +1,5 @@
-# block3_task3etc
+# code.txt
+# .gitattribytes
+# .gitignore
+# config.txt
+# download.jpg
